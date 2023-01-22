@@ -1,5 +1,12 @@
-### Татьяна Сорокина
+### Hi there, i'm Tatiana Sorokina
 
+## I'm a QA engineer
+## My SV
+[Link to my CV](https://github.com/Sawanna1/sawanna1/blob/main/Сорокина%20Татьяна.pdf)
+### Testing Documentation
+[Checklists/Test-Cases/Bug-Reports](https://github.com/Sawanna1/sawanna1/blob/main/Портфолио.xlsx)
+[SQL Queries](https://github.com/Sawanna1/sawanna1/blob/main/SQL%20запросы.docx)
+[Postman Collections](https://github.com/Sawanna1/sawanna1/commit/6b396fcc680689406781b483de0c0971999c3477)
 <!--
 **Sawanna1/sawanna1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
