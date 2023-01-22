@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="hhttps://giphy.com/gifs/season-3-the-simpsons-3x13-3orieKKmYyvUdR3RkY" width="600" height="300"/>
+</div>
 ### Hi there, i'm Tatiana Sorokina
 
 ## I'm a QA engineer
@@ -5,7 +8,9 @@
 [Link to my CV](https://github.com/Sawanna1/sawanna1/blob/main/Сорокина%20Татьяна.pdf)
 ### Testing Documentation
 [Checklists/Test-Cases/Bug-Reports](https://github.com/Sawanna1/sawanna1/blob/main/Портфолио.xlsx)
+
 [SQL Queries](https://github.com/Sawanna1/sawanna1/blob/main/SQL%20запросы.sql)
+
 [Postman Collections](https://github.com/Sawanna1/sawanna1/commit/6b396fcc680689406781b483de0c0971999c3477)
 
 ### Tools
