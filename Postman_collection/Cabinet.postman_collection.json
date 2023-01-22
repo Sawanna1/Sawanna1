@@ -1,0 +1,78 @@
+{
+	"info": {
+		"_postman_id": "752cda4d-fb92-4afc-8d7c-189611fb9b55",
+		"name": "Cabinet",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "24902928"
+	},
+	"item": [
+		{
+			"name": "Post",
+			"item": [
+				{
+					"name": "Warranty",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://www.partsdirect.ru/cabinet/returns",
+							"protocol": "https",
+							"host": [
+								"www",
+								"partsdirect",
+								"ru"
+							],
+							"path": [
+								"cabinet",
+								"returns"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Orders",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://www.partsdirect.ru/cabinet#type=2",
+							"protocol": "https",
+							"host": [
+								"www",
+								"partsdirect",
+								"ru"
+							],
+							"path": [
+								"cabinet"
+							],
+							"hash": "type=2"
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Balance",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://www.partsdirect.ru/cabinet/balance",
+							"protocol": "https",
+							"host": [
+								"www",
+								"partsdirect",
+								"ru"
+							],
+							"path": [
+								"cabinet",
+								"balance"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
