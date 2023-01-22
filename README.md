@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="hhttps://giphy.com/gifs/season-3-the-simpsons-3x13-3orieKKmYyvUdR3RkY" width="600" height="300"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3orieKKmYyvUdR3RkY/giphy.gif" width="100"/>
 </div>
 ### Hi there, i'm Tatiana Sorokina
 
