@@ -5,9 +5,7 @@
 [Link to my CV](https://github.com/Sawanna1/sawanna1/blob/main/Сорокина%20Татьяна.pdf)
 ### Testing Documentation
 [Checklists/Test-Cases/Bug-Reports](https://github.com/Sawanna1/sawanna1/blob/main/Портфолио.xlsx)
-
 [SQL Queries](https://github.com/Sawanna1/sawanna1/blob/main/SQL%20запросы.sql)
-
 [Postman Collections](https://github.com/Sawanna1/sawanna1/commit/6b396fcc680689406781b483de0c0971999c3477)
 
 ### Tools
