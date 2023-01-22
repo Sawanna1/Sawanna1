@@ -1,4 +1,4 @@
-![Header](https://github.com/Sawanna1/sawanna1/blob/main/assets/assets/1626164486_17-kartinkin-com-p-fon-tekstura-gradient-krasivo-18.png)
+![Header](https://github.com/Sawanna1/sawanna1/blob/main/assets/assets/Spase1.png)
 ### Hi there, i'm Tatiana Sorokina
 
 ## I'm a QA engineer
