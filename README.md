@@ -1,3 +1,4 @@
+![Header](https://github.com/Sawanna1/sawanna1/blob/main/assets/assets/1626164486_17-kartinkin-com-p-fon-tekstura-gradient-krasivo-18.png)
 ### Hi there, i'm Tatiana Sorokina
 
 ## I'm a QA engineer
@@ -21,7 +22,6 @@
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Sawanna509)
-
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/tatiana-sorokina1/)
 
 <!--
