@@ -1,4 +1,4 @@
-### Hi there Татьяна Сорокина👋
+### Татьяна Сорокина
 
 <!--
 **Sawanna1/sawanna1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
