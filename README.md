@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3orieKKmYyvUdR3RkY/giphy.gif" width="100"/>
-</div>
 ### Hi there, i'm Tatiana Sorokina
 
 ## I'm a QA engineer
