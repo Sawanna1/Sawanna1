@@ -1,4 +1,4 @@
-![Header](https://github.com/Sawanna1/sawanna1/blob/main/assets/assets/Spase2.png)
+![Header](https://github.com/Sawanna1/sawanna1/blob/main/assets/assets/Spase3.png)
 ### Hi there, i'm Tatiana Sorokina
 
 ## I'm a QA engineer
