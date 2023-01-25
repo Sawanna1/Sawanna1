@@ -2,8 +2,8 @@
 ### Hi there, i'm Tatiana Sorokina
 
 ## I'm a QA engineer
-## My SV
-[Link to my CV](https://github.com/Sawanna1/sawanna1/blob/main/Сорокина%20Татьяна.pdf)
+## My CV
+[Link to my CV](https://github.com/Sawanna1/sawanna1/blob/main/Сорокина%20Татьяна%20(1).pdf)
 ### Testing Documentation
 [Checklists/Test-Cases/Bug-Reports](https://github.com/Sawanna1/sawanna1/blob/main/Портфолио.xlsx)
 
